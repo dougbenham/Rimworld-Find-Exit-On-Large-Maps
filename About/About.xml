@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Fixed Exit On Large Maps</name>
+	<author>Doug</author>
+	<description>Currently the exit finding logic can only search 120 cells away and sometimes this leads to caravans/visitors getting stuck on the map. This patches it to search up to 360 cells away.</description>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>Doug.FixedExitOnLargeMaps</packageId>
+</ModMetaData>
